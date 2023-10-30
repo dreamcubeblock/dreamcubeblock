@@ -1,5 +1,5 @@
-### 大家好我是高子淇
-🔭我叫高子淇，来自深圳，今年大三，我性格内向，平时喜欢听音乐，现在致力于机器人视觉方向的科研学习。
+### 
+🔭。
 <!--
 **dreamcubeblock/dreamcubeblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
